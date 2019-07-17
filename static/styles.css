@@ -1,0 +1,13 @@
+h1 {
+    font-family: helvetica;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 4rem;
+    color: black;
+    margin-bottom: 2px;
+}
+p {
+    text-align: center;
+    margin: 0;
+}
